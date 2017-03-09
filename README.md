@@ -1,9 +1,9 @@
 Learn React/Redux by real world example
 ---------------------------------------
 
-All source code of course React/Redux by real world example on [Codeaholicguy Blog](https://codeaholicguy.com/). 
+All source code of course React/Redux by real world example.
 
-[See more](https://codeaholicguy.com/category/react/)
+[See more]
 
 Lessons
 -------
